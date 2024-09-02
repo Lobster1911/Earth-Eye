@@ -1,0 +1,12 @@
+3D globe - https://franky-arkon-digital.medium.com/make-your-own-earth-in-three-js-8b875e281b1e
+
+Satellite Tracking - https://github.com/dsuarezv/satellite-tracker?tab=readme-ov-file
+
+Esri - https://github.com/richiecarmichael/Esri-Satellite-Map/tree/master
+
+3JS - https://globe.gl/
+
+YouTube - https://www.youtube.com/watch?v=Ca4BmR5CxPw&t=10s
+
+tle.js - https://github.com/davidcalhoun/tle.js/
+

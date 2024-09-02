@@ -1,0 +1,114 @@
+Folder PATH listing for volume University
+Volume serial number is 4AD3-A963
+A:.
+¦   directory_tree.txt
+¦   README - Parikshit.txt
+¦   
++---Backend
+¦   +---Proxy
+¦   ¦       config.ini
+¦   ¦       getsatIDs.py
+¦   ¦       ProxyandRequest.py
+¦   ¦       requirements.txt
+¦   ¦       satellite_data.txt
+¦   ¦       
+¦   +---Trajectory Model LTSM (Experimental) - No need to run
+¦           README.txt
+¦           satellite_LSTM.py
+¦           satellite_trajectory_model.h5
+¦           scaler.pkl
+¦           scaler.py
+¦           test_LSTM.py
+¦           
++---Frontend
+    +---satellitefront
+        ¦   .gitignore
+        ¦   dependencies.txt
+        ¦   package-lock.json
+        ¦   package.json
+        ¦   
+        +---node_modules
+        ¦
+        +---public
+        ¦       favicon.ico
+        ¦       index.html
+        ¦       logo192.png
+        ¦       logo512.png
+        ¦       manifest.json
+        ¦       robots.txt
+        ¦       
+        +---src
+            ¦   App.css
+            ¦   App.js
+            ¦   App.test.js
+            ¦   engine.js
+            ¦   Globe.js
+            ¦   highlights.js
+            ¦   index.css
+            ¦   index.js
+            ¦   Info.js
+            ¦   logo.svg
+            ¦   reportWebVitals.js
+            ¦   setupTests.js
+            ¦   tle.js
+            ¦   
+            +---About Us
+            ¦       aboutus.css
+            ¦       aboutus.js
+            ¦       image.jpg
+            ¦       Video.mp4
+            ¦       
+            +---assets
+            ¦       active.txt
+            ¦       borders.png
+            ¦       Bump.jpg
+            ¦       circle.png
+            ¦       Clouds.png
+            ¦       earthmap-high.jpg
+            ¦       Gaia_EDR3_darkened.png
+            ¦       night2048.jpg
+            ¦       night_lights_modified.png
+            ¦       Ocean.png
+            ¦       theme.css
+            ¦       
+            +---components
+            ¦       Footer.js
+            ¦       Header.js
+            ¦       MainImage.js
+            ¦       
+            +---HomePage
+            ¦       EarthISS.mp4
+            ¦       Earthvid.mp4
+            ¦       HomePage.css
+            ¦       HomePage.js
+            ¦       
+            +---Launch Trajectory
+            ¦       launch.css
+            ¦       launch.js
+            ¦       launch.txt
+            ¦       
+            +---Options
+            ¦       DateSlider.css
+            ¦       DateSlider.js
+            ¦       
+            +---Search
+            ¦       Search.js
+            ¦       SearchBox.js
+            ¦       SearchResults.js
+            ¦       
+            +---Selection
+            ¦       SelectedStations.js
+            ¦       
+            +---shaders
+            ¦       fragment.glsl
+            ¦       vertex.glsl
+            ¦       
+            +---Trajectory Prediction
+                    Head2.js
+                    Header.css
+                    MapTrack.js
+                    SatelliteCard.js
+                    SatelliteCharacteristicsModal.js
+                    TimeDisplay.js
+                    tracking.png
+                    
